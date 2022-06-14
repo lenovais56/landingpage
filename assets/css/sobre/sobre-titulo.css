@@ -1,10 +1,9 @@
 .sobre__titulo {
-    border-top: 0.4px solid #FFF2E7;
-    padding-top: 48px;
-
     color: #FFF2E7;
+    border-top: 0.4px solid #FFF2E7;
     font-family: 'Righteous', cursive;
-    font-weight: 400;
     font-size: 24px;
+    font-weight: 400;
     margin-bottom: 16px;
+    padding-top: 48px;
 }

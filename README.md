@@ -5,7 +5,7 @@
 
 <p>
   
-  ``Landing page desenvolvida para pratica, feito via video aula da Rafaella Ballerini.``
+  ``Landing page desenvolvida para pratica do aprendizado do curso de arquitetura da ALura, feito via videoaula da Rafaella Ballerini no youtube.``
  
 
 </p>

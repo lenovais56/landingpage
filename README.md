@@ -21,7 +21,7 @@
 
 - ``HTML5``
 - ``CSS3``
-- ``VS code`
+- ``VS code``
 
 ## 💻 Links: 
 `Youtube`: https://www.youtube.com/watch?v=llF6vD-RljE
